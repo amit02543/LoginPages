@@ -1,2 +1,2 @@
-# loginPages
+# LoginPages
 New login pages
